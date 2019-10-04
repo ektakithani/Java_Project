@@ -1,0 +1,5 @@
+class Extra {
+public paa(String un){
+
+new ChangePasswordfun(un);
+}}
